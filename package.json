@@ -1,9 +1,10 @@
 {
   "name": "pg6301-publish-to-heroku",
   "version": "1.0.0",
-  "description": "Heroku\r ======",
+  "description": "Heroku",
   "main": "index.js",
   "scripts": {
+    "start": "cd server && npm start",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
