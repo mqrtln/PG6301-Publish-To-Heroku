@@ -1,0 +1,20 @@
+{
+  "name": "pg6301-publish-to-heroku",
+  "version": "1.0.0",
+  "description": "Heroku\r ======",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mqrtln/PG6301-Publish-To-Heroku.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mqrtln/PG6301-Publish-To-Heroku/issues"
+  },
+  "homepage": "https://github.com/mqrtln/PG6301-Publish-To-Heroku#readme"
+}
