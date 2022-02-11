@@ -4,7 +4,7 @@ import path from "path";
 const app = express();
 
 app.get("/api/login", (req, res, next) => {
-  res.json({ username: "Noen Andre" });
+  res.json({ username: "Hei Bandre Dermstad :) " });
 });
 app.post("/api/login", (req, res, next) => {
   res.sendStatus(401);
