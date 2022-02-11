@@ -17,16 +17,23 @@ function FrontPage() {
 
 function Login() {
   return (
-    <form>
-      <h1>Login</h1>
-      <div>
-        Username: <input />
-      </div>
-      <div>
-        Password <input type="password" />
-      </div>
-      <button>Submit</button>
-    </form>
+    //<form>
+    // <h1>Login</h1>
+    // <div>
+    //  Username: <input />
+    //</div>
+    //<div>
+    // Password <input type="password" />
+    // </div>
+    //<button>Submit</button>
+    //</form>
+    <>
+      <h1>Bei Bandre HAr du det gøy med afk spillet ditt???</h1>
+      <p>
+        HAAAAAAAAAAAAAHAHAHAHAHHAAHAHAHHAHAHAHAHAHAHHAHAHAHAHAHAHHAHAHAHAHHAHAHAH
+      </p>
+      <h2>peepee</h2>
+    </>
   );
 }
 
