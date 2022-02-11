@@ -3,7 +3,7 @@ import express from "express";
 const app = express();
 
 app.get("/login", (req, res, next) => {
-  res.json({ username: "Noen Andre" });
+  res.json({ username: "Yo Tora" });
 });
 app.post("/login", (req, res, next) => {
   res.sendStatus(401);
